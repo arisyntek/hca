@@ -53,7 +53,7 @@ flowchart TB
 *   **Mechanisms**:
     *   **Webhooks**: POST request to external endpoints.
     *   **Message Queue**: Publish to queue.
-    *   **Event Stream**: Publish Event.
+    *   **Event Stream**: Publish event.
 
 ---
 
