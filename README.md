@@ -15,7 +15,7 @@ flowchart TB
     B --> C
     F --> E & n1["Notification Service"]
     C -- API Gateway --> F
-    C -- Direct DB access --> E
+    C -- Direct DB write --> E
     n1 --> G["External Consumers / Dashboard"]
     E -.-> n1
 
