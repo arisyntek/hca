@@ -1,5 +1,4 @@
-## Hybrid Cloud Architecture
-
+**Hybrid Cloud Architecture** where the core data persistence resides in a managed cloud service (like AWS), while the data ingestion and processing logic runs on self-hosted (or private cloud) infrastructure.
 
 ```mermaid
 flowchart TB
